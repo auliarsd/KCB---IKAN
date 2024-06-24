@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#data, #koi-types {
+    margin-top: 20px;
+}
